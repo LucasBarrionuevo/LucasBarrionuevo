@@ -2,7 +2,7 @@
 
 <br />
 
-<p>I'm a web developer living in La Plata, Buenos Aires :argentina:. I dedicate my days to different areas of web development, from back-end programming to front-end engineering, digital accessibility and user experience.
+<p>I'm a web developer living in Buenos Aires :argentina:. I dedicate my days to different areas of web development, from back-end programming to front-end engineering, digital accessibility and user experience.
 
 I'm passionate about web development and design in all its forms, helping people to build and improve their online presence.
 
