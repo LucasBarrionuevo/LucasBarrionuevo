@@ -6,7 +6,7 @@
 
 I'm passionate about web development and design in all its forms, helping people to build and improve their online presence.
 
-Other than that, I like to spend my time playing and watching soccer, e-sports and craft beer brewing.<p/>
+Other than that, I like to spend my time playing and watching soccer, e-sports and crafting beer brewing.<p/>
 
 
 <h3 align="left">Languages and Tools:</h3>
